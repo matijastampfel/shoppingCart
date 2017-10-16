@@ -27,6 +27,12 @@ new Product ({
     title: 'Volvo v90',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quisquam suscipit quasi autem repudiandae ea excepturi vero possimus nostrum illum, commodi quod asperiores similique, fuga, aperiam voluptatem tempore? Porro, eum!',
     price: 30000 
+}),
+new Product({
+    imagePath: 'http://bilder.bild.de/fotos-skaliert/volvo-studie-40-1-volvo-xc40-1000104899-45922854/2,c=0,h=720.bild.jpg',
+    title: 'Volvo XC40',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic itaque maxime doloribus nihil beatae totam quisquam laboriosam vero et nesciunt id, vel, voluptate blanditiis placeat harum error illo officia quasi?',
+    price: 30000
 })
  ];
 
